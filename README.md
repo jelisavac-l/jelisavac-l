@@ -38,8 +38,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jelisavac-l/jelisavac-l/output/snake.svg" alt="Snake animation" />
-
-###
