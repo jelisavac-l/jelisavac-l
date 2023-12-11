@@ -42,10 +42,3 @@
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://static.doomworld.com/monthly_2018_09/1520544707050.gif.ca831464025220c6c0f5c9c511baa166.gif"  />
-</div>
-
-###
