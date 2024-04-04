@@ -37,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
 
 </div>
 
