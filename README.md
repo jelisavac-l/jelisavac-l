@@ -21,6 +21,10 @@
   <img width="12" />
 
   <h2>Tools & Technologies</h2>
+  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" height="40" ald="sfml logo"    />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
