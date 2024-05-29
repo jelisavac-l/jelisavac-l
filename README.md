@@ -48,6 +48,5 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
-
 </div>
 
