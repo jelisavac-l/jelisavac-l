@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋! My name is Luka</h1>
 
-
 <h1 align="center">Languages</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
